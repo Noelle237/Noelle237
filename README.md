@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noelle237
-- 👀 I’m interested in .developpement web..
-- 🌱 I’m currently learning .php, c++, phython, js, react js
+- 👀 I’m interested in .intelligence artificielle et bigdata..
+- 🌱 I’m currently learning .php, c++, phython, js, java and c++
 - 💞️ I’m looking to collaborate on sur  des projets avec despersonnes pouvant m'aider
 - 📫 How to reach me   a a une communauté ou je pourai constament poser mes problemes?
 - 😄 Pronouns: nous
